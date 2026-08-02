@@ -1,4 +1,4 @@
-# AI-Enhanced Anomaly Detection in the Ethereum Blockchain
+# AI Enhanced Anomaly Detection in the Ethereum Blockchain
 
 This repository contains the code accompanying my master's thesis, *"AI powered anomaly detection in Ethereum transactions:
 addressing data imbalance and enhancing detection accuracy."* It implements a machine learning pipeline for detecting fraudulent Ethereum transactions using the BCCC-DeFiFraudTrans-2025 benchmark dataset. It has a focus on class imbalance handling, model explainability and a wallet grouped evaluation procedure.
